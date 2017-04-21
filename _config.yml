@@ -1,0 +1,21 @@
+# Site settings
+title: Learn to code...why?
+header-img: img/home-bg.png
+email: kpolischuk@gmail.com
+copyright_name: Pchuk
+description: > # this means to ignore newlines until "baseurl:"
+  Finding the right wall for my ladder
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: The_Pchuk
+github_username:  Pchuk
+learn_profile: Pchuk
+email_username: kpolischuk@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
