@@ -1,10 +1,10 @@
 # Site settings
-title: Learn to code...why?
+title: Keith Codes
 header-img: img/home-bg.png
 email: kpolischuk@gmail.com
 copyright_name: Pchuk
 description: > # this means to ignore newlines until "baseurl:"
-  Finding the right wall for my ladder
+  One man's epic journey through the land of coding
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: The_Pchuk
 github_username:  Pchuk
